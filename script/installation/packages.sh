@@ -59,7 +59,7 @@ PYTHON_TEST_PACKAGES=(\
   "pyzmq" \
   "requests" \
   "sklearn" \
-  "torch" \
+  # "torch" \
   "tqdm" \
 )
 
